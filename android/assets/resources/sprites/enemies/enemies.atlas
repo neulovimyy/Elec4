@@ -1,0 +1,397 @@
+enemies.png
+size: 128, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_demon
+  rotate: false
+  xy: 0, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 1
+big_demon
+  rotate: false
+  xy: 32, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 2
+big_demon
+  rotate: false
+  xy: 64, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 3
+big_demon
+  rotate: false
+  xy: 96, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 4
+big_demon
+  rotate: false
+  xy: 0, 36
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 5
+big_demon
+  rotate: false
+  xy: 32, 36
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 6
+big_demon
+  rotate: false
+  xy: 64, 36
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 7
+big_demon
+  rotate: false
+  xy: 96, 36
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 8
+big_zombie_idle_anim_f0
+  rotate: false
+  xy: 0, 72
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+big_zombie_idle_anim_f1
+  rotate: false
+  xy: 32, 72
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+big_zombie_idle_anim_f2
+  rotate: false
+  xy: 64, 72
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+big_zombie_idle_anim_f3
+  rotate: false
+  xy: 96, 72
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+big_zombie_run_anim_f0
+  rotate: false
+  xy: 0, 106
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+big_zombie_run_anim_f1
+  rotate: false
+  xy: 32, 106
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+big_zombie_run_anim_f2
+  rotate: false
+  xy: 64, 106
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+big_zombie_run_anim_f3
+  rotate: false
+  xy: 96, 106
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+masked_orc_idle_anim_f0
+  rotate: false
+  xy: 0, 140
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+masked_orc_idle_anim_f1
+  rotate: false
+  xy: 16, 140
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+masked_orc_idle_anim_f2
+  rotate: false
+  xy: 32, 140
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+masked_orc_idle_anim_f3
+  rotate: false
+  xy: 48, 140
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+masked_orc_run_anim_f0
+  rotate: false
+  xy: 64, 140
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+masked_orc_run_anim_f1
+  rotate: false
+  xy: 80, 140
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+masked_orc_run_anim_f2
+  rotate: false
+  xy: 96, 140
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+masked_orc_run_anim_f3
+  rotate: false
+  xy: 112, 140
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+muddy_idle_anim_f0
+  rotate: false
+  xy: 0, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+muddy_idle_anim_f1
+  rotate: false
+  xy: 16, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+muddy_idle_anim_f2
+  rotate: false
+  xy: 32, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+muddy_idle_anim_f3
+  rotate: false
+  xy: 48, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+muddy_run_anim_f0
+  rotate: false
+  xy: 64, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+muddy_run_anim_f1
+  rotate: false
+  xy: 80, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+muddy_run_anim_f2
+  rotate: false
+  xy: 96, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+muddy_run_anim_f3
+  rotate: false
+  xy: 112, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+necromancer_idle_anim_f0
+  rotate: false
+  xy: 0, 176
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+necromancer_idle_anim_f1
+  rotate: false
+  xy: 16, 176
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+necromancer_idle_anim_f2
+  rotate: false
+  xy: 32, 176
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+necromancer_idle_anim_f3
+  rotate: false
+  xy: 48, 176
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+necromancer_run_anim_f0
+  rotate: false
+  xy: 64, 176
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+necromancer_run_anim_f1
+  rotate: false
+  xy: 80, 176
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+necromancer_run_anim_f2
+  rotate: false
+  xy: 96, 176
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+necromancer_run_anim_f3
+  rotate: false
+  xy: 112, 176
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+skelet_idle_anim_f0
+  rotate: false
+  xy: 0, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skelet_idle_anim_f1
+  rotate: false
+  xy: 16, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skelet_idle_anim_f2
+  rotate: false
+  xy: 32, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skelet_idle_anim_f3
+  rotate: false
+  xy: 48, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skelet_run_anim_f0
+  rotate: false
+  xy: 64, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skelet_run_anim_f1
+  rotate: false
+  xy: 80, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skelet_run_anim_f2
+  rotate: false
+  xy: 96, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skelet_run_anim_f3
+  rotate: false
+  xy: 112, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zombie_idle_anim_f0
+  rotate: false
+  xy: 0, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zombie_idle_anim_f1
+  rotate: false
+  xy: 16, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zombie_idle_anim_f2
+  rotate: false
+  xy: 32, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zombie_idle_anim_f3
+  rotate: false
+  xy: 48, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zombie_run_anim_f0
+  rotate: false
+  xy: 64, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zombie_run_anim_f1
+  rotate: false
+  xy: 80, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zombie_run_anim_f2
+  rotate: false
+  xy: 96, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zombie_run_anim_f3
+  rotate: false
+  xy: 112, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

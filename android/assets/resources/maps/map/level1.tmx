@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="350" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="117">
+ <tileset firstgid="1" source="../tileset/tileset.tsx"/>
+ <layer id="2" name="Tile Layer 2" width="350" height="30">
+  <data encoding="base64" compression="zlib">
+   eAHt0kENAAAMhDAEnH+987H0gQHSVZMHDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAANPDBx8bOxA
+  </data>
+ </layer>
+ <layer id="1" name="Tile Layer 1" width="350" height="30">
+  <data encoding="base64" compression="zlib">
+   eAHt3E1qwzAQBlCtEuiuPVHvf6rYi2zEaCTHYxfKC5hg/cw0D/FhSMmjtd8vFwNnwBlwBm45A8/N+ad5ESBAgMBdAt9bI7l7l7Y+BAgQaE3uOgUECBC4V0Du3uutGwECBOSuM0CAAIF6ge1/FVp07Z3kbr23igQIEMgE5G6mY44AAQL1AnK33lRFAgQIZAJyN9MxR4AAgXoBuVtvqiIBAgQyAbmb6ZgjQIBAvYDcrTdVkQABApmA3M10zBEgQKBeQO7Wm6pIgACBTEDuZjrmCBAgUC8gd+tNVSRAgEAmIHczHXMECBCoF5C79aYqEiAQC0S/E/Ofx2IFv4szcjFOgACBqwQ8714lqy4BAgRiAbkbuxglQIDAVQJy9ypZdQkQIBALyN3YxSgBAgQqBKLvDeVuhawaBAgQWBeQu+tWVhIgQKBCYDV3o2flfSx7jfaMxvtao3Wj8X7/mftRj2j80z5RrZWxrN/K/pU1WY9P5lZ6ztbM+s72j+ZndbP5Uc0j41n9v5478jn6tUf+9n7vyv1q/cpafc9Z7X79+341d9/rvRMgQIDAOQG5e87PbgIECBwV2HP3sV2z52XzjJwBZ8AZqDkDzy1zX/Tvf+E=
+  </data>
+ </layer>
+ <layer id="8" name="items" width="350" height="30" offsetx="0" offsety="-4.66667">
+  <data encoding="base64" compression="zlib">
+   eAHt0LENADAIA0GyRsZmYjrkPkp3VC8kN1flCBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQOBF4MY4O96bfTYFAQIECBAgQIAAAQIECBAgQIAAAQIECHwSGGyaAMg=
+  </data>
+ </layer>
+ <layer id="3" name="Tile Layer 3" width="350" height="30">
+  <data encoding="base64" compression="zlib">
+   eAHt0AEJAAAMw7BpuX+RlzEYqYFCEhEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIEegLXWzsTIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAiMCjwWRgAj
+  </data>
+ </layer>
+ <objectgroup id="9" name="exitdoor">
+  <object id="109" x="5535.33" y="79.6667" width="6.66667" height="5.33333"/>
+ </objectgroup>
+ <objectgroup id="4" name="ground">
+  <object id="2" x="-0.863636" y="0.840909" width="5600" height="6.5"/>
+  <object id="3" x="5595" y="0" width="5" height="480.5"/>
+  <object id="4" x="0" y="0" width="3.5" height="480"/>
+  <object id="18" x="0" y="476.333" width="5600" height="3.66667"/>
+  <object id="88" x="144" y="427.667" width="97" height="4.33333"/>
+  <object id="107" x="5472" y="91.3333" width="96" height="4.66667"/>
+ </objectgroup>
+ <objectgroup id="6" name="objects" offsetx="0" offsety="-4.33333">
+  <object id="105" x="160" y="418" width="16.5" height="14">
+   <properties>
+    <property name="coin" value=""/>
+   </properties>
+  </object>
+  <object id="106" x="208" y="419" width="16" height="13">
+   <properties>
+    <property name="coin" value=""/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="10" name="Enemy">
+  <object id="111" x="256.667" y="451.333" width="16" height="16"/>
+  <object id="115" x="576" y="448" width="16" height="16"/>
+  <object id="116" x="704" y="448" width="16" height="16"/>
+ </objectgroup>
+</map>

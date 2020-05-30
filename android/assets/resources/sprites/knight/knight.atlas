@@ -1,0 +1,61 @@
+knight.png
+size: 16, 224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight
+  rotate: false
+  xy: 0, 0
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: 1
+knight
+  rotate: false
+  xy: 0, 28
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: 2
+knight
+  rotate: false
+  xy: 0, 56
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: 3
+knight
+  rotate: false
+  xy: 0, 84
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: 4
+knight
+  rotate: false
+  xy: 0, 112
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: 5
+knight
+  rotate: false
+  xy: 0, 140
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: 6
+knight
+  rotate: false
+  xy: 0, 168
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: 7
+knight
+  rotate: false
+  xy: 0, 196
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: 8
